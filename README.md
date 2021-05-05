@@ -1,8 +1,15 @@
 # Breaking Bad
 Used React and Breaking Bad API to build a small app to filter the character
 
+![](https://github.com/deepthyp1991/breaking-bad/blob/master/src/doc/loading-page.png?raw=true)
+
 ![](https://github.com/deepthyp1991/breaking-bad/blob/master/src/doc/Home-page.png)
 
+![](https://github.com/deepthyp1991/breaking-bad/blob/master/src/doc/Landin-page.png?raw=true)
+
+![](https://github.com/deepthyp1991/breaking-bad/blob/master/src/doc/search-page.png?raw=true)
+
+![](https://github.com/deepthyp1991/breaking-bad/blob/master/src/doc/No-result.png?raw=true)
 
 # Getting Started with Create React App
 
