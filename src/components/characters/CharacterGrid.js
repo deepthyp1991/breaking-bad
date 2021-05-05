@@ -22,7 +22,9 @@ export const CharacterGrid = ({items, loading}) => {
         <CharacterItem key={item.char_id} item={item} /> 
        ))}
        </section> 
-       )   
+       )
+       
+       
 }
 
 // export const CharacterGrid = ({items}) => {
